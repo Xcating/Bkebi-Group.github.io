@@ -11,7 +11,7 @@
 
 - [#指定收集整合(已更新bpfc)] [ (@茶亭#6804) Json_Integration](https://github.com/Xcating/Json_Integration)
 
-- [#混合挂机点位] [ (@Sam5440#8543) Sleep_TP](https://wwzb.lanzouf.com/invXS0lwy0yh)
+- [#混合挂机点位] [ (@SDK-China#5338) Sleep_TP](https://wwzb.lanzouf.com/invXS0lwy0yh)
 
 - [#混合挂机点位(已更新bpfc)] [ (@持青伞#6666) Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json) (QQ群组)157639326
 
